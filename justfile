@@ -21,7 +21,7 @@ rsync:
 		--exclude favicon.ico \
 		--exclude README.md \
 		--exclude .DS_Store \
-		--exclude justfile -avp ../lit-webr/ rud.is:~/rud.is/w/lit-webr/
+		--exclude justfile -avp ../lit-webr-plot/ rud.is:~/rud.is/w/lit-webr-plot/
 
 # publish to GH
 github:

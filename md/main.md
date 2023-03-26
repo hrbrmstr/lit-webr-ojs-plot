@@ -118,4 +118,8 @@ When the `region` changes, it triggers a reactive update. When the refresh happe
 
  Plot may not be {ggplot2}, but it cleans up well, and we've even had it match the style we used in the previous experiment.
 
+### FIN
+
+You can find the code [on GitHub](https://github.com/hrbrmstr/lit-webr-ojs-plot).
+
 <p style="text-align:center;margin-top:2rem;">Brought to you by @hrbrmstr</p>
